@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Pikachu",
+      "imgLink": "https://archives.bulbagarden.net/media/upload/thumb/4/4a/0025Pikachu.png/250px-0025Pikachu.png",
+      "hp": 100,
+      "abilities": [
+        {
+          "name": "Kick",
+          "damage": 5
+        },
+        {
+          "name": "Lightningrod",
+          "damage": 10
+        }
+      ]
+    },
+    {
+      "name": "Rattata",
+      "imgLink": "https://archives.bulbagarden.net/media/upload/thumb/a/aa/0019Rattata.png/250px-0019Rattata.png",
+      "hp": 100,
+      "abilities": [
+        {
+          "name": "Scratch",
+          "damage": 3
+        },
+        {
+          "name": "Bite",
+          "damage": 8
+        }
+      ]
+    }
+  ]
